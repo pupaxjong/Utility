@@ -26,3 +26,14 @@
 #### GIT
 - [Server : GIT](https://git-scm.com/downloads)   
 - [Client : TortoiseGit (Windows Only)](https://tortoisegit.org/download/)   
+- [Client : Source Tree](https://www.sourcetreeapp.com/)   
+- [Client : GitHub Desktop - 비추천](https://desktop.github.com/)   
+
+
+### Terminel
+-[MobaXterm (Windows Only)](https://mobaxterm.mobatek.net/download-home-edition.html)   
+
+### Messenger
+-[Slack Windows](https://slack.com/intl/ko-kr/downloads/windows)   
+-[Slack Mac](https://slack.com/intl/ko-kr/downloads/mac)   
+
