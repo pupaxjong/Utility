@@ -31,9 +31,9 @@
 
 
 ### Terminel
--[MobaXterm (Windows Only)](https://mobaxterm.mobatek.net/download-home-edition.html)   
+- [MobaXterm (Windows Only)](https://mobaxterm.mobatek.net/download-home-edition.html)   
 
 ### Messenger
--[Slack Windows](https://slack.com/intl/ko-kr/downloads/windows)   
--[Slack Mac](https://slack.com/intl/ko-kr/downloads/mac)   
+- [Slack Windows](https://slack.com/intl/ko-kr/downloads/windows)   
+- [Slack Mac](https://slack.com/intl/ko-kr/downloads/mac)   
 
