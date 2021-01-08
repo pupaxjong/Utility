@@ -19,9 +19,6 @@
 
 
 ### Configuration Management
-#### SVN
-##### Server
-- [VISUALSVN SERVER](https://www.visualsvn.com/server/download/)   
-
-##### Client
-- [TortoiseSVN](https://tortoisesvn.net/downloads.html)
+#### SVN   
+- [Server : VISUALSVN SERVER](https://www.visualsvn.com/server/download/)   
+- [Client : TortoiseSVN](https://tortoisesvn.net/downloads.html)   
