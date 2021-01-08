@@ -1,4 +1,7 @@
 # 추천 유틸리티
+### 압축
+- [반디집](https://kr.bandisoft.com/bandizip/)   
+
 ### Explorer
 - [Double Commander Home](https://double-commander.kr.uptodown.com/windows)   
 [Double Commander : source forge](https://sourceforge.net/p/doublecmd/wiki/Download/)   
@@ -8,20 +11,8 @@
 - [Sublime Text 3](https://www.sublimetext.com/)   
 - [Notpad++](https://notepad-plus-plus.org/downloads/)   
 
-### 압축
-- [반디집](https://kr.bandisoft.com/bandizip/)   
-
 ### 스크린샷
 - [PicPick(픽픽)](https://picpick.app/ko/download)   
-
-
-### DB 설치.
-- [MySql](https://dev.mysql.com/downloads/installer/)   
- MySql 설치후에 C:\ProgramData\MySQL\MySQL Server 8.0\ 폴더에 my.ini 를 복사할것.  옵션 튜닝한것임.
- 
-- [HeidiSQL](https://www.heidisql.com/download.php?download=installer)   
-
-- [Sqlite Browser](https://sqlitebrowser.org/dl/)   
 
 
 ### Configuration Management
@@ -42,13 +33,19 @@
 - [WinMerge](https://winmerge.kr.uptodown.com/windows)   
 
 
-
 ### Terminel
 - [MobaXterm (Windows Only)](https://mobaxterm.mobatek.net/download-home-edition.html)   
 
 ### Messenger
 - [Slack Windows](https://slack.com/intl/ko-kr/downloads/windows)   
 - [Slack Mac](https://slack.com/intl/ko-kr/downloads/mac)   
+
+### DB 설치.
+- [MySql](https://dev.mysql.com/downloads/installer/)   
+ MySql 설치후에 C:\ProgramData\MySQL\MySQL Server 8.0\ 폴더에 my.ini 를 복사할것.  옵션 튜닝한것임.
+
+- [HeidiSQL](https://www.heidisql.com/download.php?download=installer)   
+- [Sqlite Browser](https://sqlitebrowser.org/dl/)   
 
 ### 원격 관리
 - [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/)   
