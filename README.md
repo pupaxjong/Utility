@@ -21,7 +21,7 @@
 - [Client : TortoiseSVN](https://tortoisesvn.net/downloads.html)   
 
 #### GIT
-- [Server : GIT](https://git-scm.com/downloads)   
+- [GIT](https://git-scm.com/downloads)   
 - [Client : TortoiseGit (Windows Only)](https://tortoisegit.org/download/)   
 - [Client : Source Tree](https://www.sourcetreeapp.com/)   
 - [Client : GitHub Desktop - 비추천](https://desktop.github.com/)   
