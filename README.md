@@ -8,6 +8,12 @@
 - [Sublime Text 3](https://www.sublimetext.com/)   
 - [Notpad++](https://notepad-plus-plus.org/downloads/)   
 
+### 압축
+- [반디집](https://kr.bandisoft.com/bandizip/)   
+
+### 스크린샷
+- [PicPick(픽픽)](https://picpick.app/ko/download)   
+
 
 ### DB 설치.
 - [MySql](https://dev.mysql.com/downloads/installer/)   
@@ -29,6 +35,13 @@
 - [Client : Source Tree](https://www.sourcetreeapp.com/)   
 - [Client : GitHub Desktop - 비추천](https://desktop.github.com/)   
 
+#### 일정 관리
+- [Notion](https://www.notion.so/desktop)   
+
+#### 윈 머지 (윈도우 전용)
+- [WinMerge](https://winmerge.kr.uptodown.com/windows)   
+
+
 
 ### Terminel
 - [MobaXterm (Windows Only)](https://mobaxterm.mobatek.net/download-home-edition.html)   
@@ -37,3 +50,5 @@
 - [Slack Windows](https://slack.com/intl/ko-kr/downloads/windows)   
 - [Slack Mac](https://slack.com/intl/ko-kr/downloads/mac)   
 
+### 원격 관리
+- [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/)   
