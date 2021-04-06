@@ -36,8 +36,8 @@
 ### Terminel
 - [xterm2 (mac)](https://iterm2.com/downloads.html)   
 - [MobaXterm (Windows Only)](https://mobaxterm.mobatek.net/download-home-edition.html)   
-- [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)   
--    한글 : https://www.44bits.io/ko/post/wsl2-install-and-basic-usage   
+- [Windows Subsystem for Linux.(영어)](https://docs.microsoft.com/en-us/windows/wsl/install-win10)   
+    한글 : https://www.44bits.io/ko/post/wsl2-install-and-basic-usage   
 
 ### Messenger
 - [Slack Windows](https://slack.com/intl/ko-kr/downloads/windows)   
