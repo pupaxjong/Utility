@@ -55,3 +55,15 @@
 
 ### 아이콘 변환
 - [아이콘 변환 사이트](https://convertico.com)
+
+### 파일 관리
+- [Double Commander(더블 코맨더) 다운로드](https://sourceforge.net/p/doublecmd/wiki/Download/)
+
+### 오토마우스
+- [AutoClick 다운로드 - 추천](https://lovepw.tistory.com/1134)
+  - [공홈?](https://download-hub.com/app/autoclick/)
+
+### 멀티 OS 설치기
+- [ventoy 다운로드](https://www.ventoy.net/en/download.html)
+  - [참고 사이트](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=tt_zone&logNo=222046851558)
+  
