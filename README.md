@@ -58,10 +58,12 @@
 
 ### 파일 관리
 - [Double Commander(더블 코맨더) 다운로드](https://sourceforge.net/p/doublecmd/wiki/Download/)
+- [Everything - 실시간 파일, 폴더, 문서 검색 다운로드](https://www.voidtools.com/ko-kr/)   
 
 ### 오토마우스
-- [AutoClick 다운로드 - 추천](https://lovepw.tistory.com/1134)
+- [Windows : AutoClick 다운로드 - 추천](https://lovepw.tistory.com/1134)
   - [공홈?](https://download-hub.com/app/autoclick/)
+- [android : 오토마우스 - 자동 터치](https://play.google.com/store/apps/details?id=com.autoclicker.simple.automatic.tap&hl=ko&gl=US)   
 
 ### 멀티 OS 설치기
 - [ventoy 다운로드](https://www.ventoy.net/en/download.html)
