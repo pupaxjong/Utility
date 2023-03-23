@@ -97,7 +97,7 @@
 
 ### File Management
 - [Double Commander(더블 코맨더) 다운로드](https://sourceforge.net/p/doublecmd/wiki/Download/)
-  - [Double Commander 환경 설정](./DoubleCommander/README.md)   
+  - [Double Commander 환경 설정](./File/README.md)   
 - [Everything - 실시간 파일, 폴더, 문서 검색 다운로드](https://www.voidtools.com/ko-kr/)   
 
 ---------------
