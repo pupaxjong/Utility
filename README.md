@@ -58,6 +58,7 @@
 
 ### 파일 관리
 - [Double Commander(더블 코맨더) 다운로드](https://sourceforge.net/p/doublecmd/wiki/Download/)
+  - [Double Commander 환경 설정](./DoubleCommander/README.md)   
 - [Everything - 실시간 파일, 폴더, 문서 검색 다운로드](https://www.voidtools.com/ko-kr/)   
 
 ### 오토마우스
