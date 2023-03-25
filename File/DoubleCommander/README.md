@@ -16,10 +16,14 @@
 
 ### 설치하기
 - [더블 코맨더 홈](https://sourceforge.net/p/doublecmd/wiki/Download/)   
-- 맥에 설치하기
+
+- 맥에 설치하기 :  mac os 11 이하일때. version 0.9.10-9640
 ```
 $ brew install --cask double-commander
 ```
+- mac os 11 이상일때
+[다운로드](https://doublecmd.sourceforge.io/site/eng/snapshots.php)
+
 
 <br>
 
