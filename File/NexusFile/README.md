@@ -1,4 +1,6 @@
 # 환경설정 파일
+https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=lysine&logNo=220969193215
+
 - colors.cfg
 ```
 [NEXUSFILECOLOR5]
