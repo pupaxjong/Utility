@@ -67,10 +67,11 @@ $ brew install --cask double-commander
 
 - 파일 색상 변경하기
   - 카테고리 속성은 비워 두면 됨. 속성에 따라 색깔을 다르게 할 경우 사용.  - 로 시작해야함.
-  - 카테고리 마스크
-    - 구분자 ;
 ```
-  *.h;*.cpp
+- 카테고리 마스크
+  - 구분자 ; 사용.
+  
+*.h;*.cpp
 ```
 ![디렉토리 색상 변경 바로 설정](./setting_color_file_filter.png)
 
